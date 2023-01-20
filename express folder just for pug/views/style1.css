@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main-top{
+
+    height: 19cm;
+    /* width: 10cm; */
+     /* background-color: rgb(106, 65, 195);; */ 
+    background-image: url(https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2022/11/homepage-success-now-lg-bg.jpg?w=1024);
+}
+
+.deliver{
+     color: rgb(53, 85, 173);
+    padding-top: 0.7cm;
+    padding-left: 0.7cm;
+    font-size:52px;
+    font-weight: 900;
+}
+
+.para1{
+    padding-left: 1cm;
+    font-weight: 500;
+    font-size: 26px;
+}
+.btntrial{
+    font-size: 16px;
+    color: white;
+    background-color: green;
+    margin-top: 1cm;
+    margin-left: 0.8cm;
+    height: 1.2cm;
+    width: 4cm;
+    border-radius: 7px;
+    border: none;
+}
+.watch{
+    background-color: #fff;
+    margin-left: 1cm;
+    height: 1.2cm;
+    width: 4cm;
+    border: 2px solid blue;
+    border-radius:7px ;
+    font-size: 18px;
+
+
+}
+
+.img98{
+    margin-left:7cm;
+    /* text-align: center; */
+    height: 398px;
+
+    width: 498px;
+}
+/* .sticky */
+    /* padding: 0.3cm;
+    background-color: rgb(110, 101, 180);
+  
+   border-radius: 16px; */
+/* 
+   {
+
+    /* height: 0.cm;  */
+    /* width: 2cm;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color:#0176d3;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px; */
+    /* position: absolute; */
+  /* } */ 
+   /* {
+    position: -webkit-sticky;
+    position: sticky;
+    /* top: 0; */
+    /* background-color: yellow;
+    padding: 50px;
+    font-size: 20px;
+  */
+
+  .sph{
+    text-align: center;
+    font-size: 39px;
+  }
+
+  .imgb{
+    height: 4cm;
+    /* margin-left: 0.5cm; */
+    margin-left: 52px;
+  }
+  .textbelow{
+    color: rgb(57, 51, 141);
+    font-size: 18px;
+    margin-top: 18px;
+    display: inline-block;
+    margin-left: 2cm;
+    /* flex-direction: column; */
+  }
+
+
+
+
+
+    
